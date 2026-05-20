@@ -1,0 +1,31 @@
+[
+  {"title": "策划案总纲", "path": "index"},
+  {"title": "世界观与剧情", "path": "worldview"},
+  {"title": "种族系统", "children": [
+    {"title": "种族总览", "path": "races/overview"},
+    {"title": "人族", "path": "races/ren"},
+    {"title": "仙族", "path": "races/xian"},
+    {"title": "神族", "path": "races/shen"},
+    {"title": "妖族", "path": "races/yao"},
+    {"title": "战神族", "path": "races/zhan"}
+  ]},
+  {"title": "职业系统", "children": [
+    {"title": "职业总览", "path": "classes/overview"},
+    {"title": "战士", "path": "classes/warrior"},
+    {"title": "弓箭手", "path": "classes/archer"},
+    {"title": "炼丹师", "path": "classes/alchemist"}
+  ]},
+  {"title": "五行系统", "children": [
+    {"title": "五行总览", "path": "wuxing/overview"},
+    {"title": "金元素", "path": "wuxing/metal"},
+    {"title": "木元素", "path": "wuxing/wood"},
+    {"title": "水元素", "path": "wuxing/water"},
+    {"title": "火元素", "path": "wuxing/fire"},
+    {"title": "土元素", "path": "wuxing/earth"}
+  ]},
+  {"title": "战斗系统", "path": "combat"},
+  {"title": "任务系统", "path": "quests"},
+  {"title": "地图与区域", "path": "map"},
+  {"title": "NPC系统", "path": "npcs"},
+  {"title": "物品与装备", "path": "items"}
+]
